@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="request">Request</string>
+    <string name="textview">TextView</string>
+    <string name="support">Support</string>
+    <string name="search_car">Search Car</string>
+    <string name="car_logo" />
+    <string name="logo" />
+    <string name="logo_image">Logo Image</string>
+    <string name="Taxi3" />
+
+    <string-array name="sort_options">
+        <item>ID</item>
+        <item>Brand</item>
+        <item>Price</item>
+        <item>Speed</item>
+        <item>Year</item>
+    </string-array>
+
+    <string-array name="brands_array">
+
+        <item>Всі бренди</item>
+        <item>Acura</item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Chevrolet</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Infinite</item>
+        <item>Jaguar</item>
+        <item>Kia</item>
+        <item>Land Rover</item>
+        <item>Lexus</item>
+        <item> Mazda</item>
+        <item>Mercedes-Benz</item>
+        <item>Nissan</item>
+        <item>Subaru</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+
+    </string-array>
+    <string-array name="brands_array_withoutFirst">
+
+    <item>Acura</item>
+    <item>Audi</item>
+    <item>BMW</item>
+    <item>Chevrolet</item>
+    <item>Ford</item>
+    <item>Honda</item>
+    <item>Hyundai</item>
+    <item>Infinite</item>
+    <item>Jaguar</item>
+    <item>Kia</item>
+    <item>Land Rover</item>
+    <item>Lexus</item>
+    <item> Mazda</item>
+    <item>Mercedes-Benz</item>
+    <item>Nissan</item>
+    <item>Subaru</item>
+    <item>Toyota</item>
+    <item>Volkswagen</item>
+    <item>Volvo</item>
+
+</string-array>
+<string-array name="ModelArray">
+
+    <item>Focus</item>
+    <item>Civic</item>
+    <item>Passat</item>
+    <item>Corolla</item>
+    <item>Cruze</item>
+    <item>Impreza</item>
+    <item>Elantra</item>
+    <item>3</item>
+    <item>A4</item>
+    <item>Malibu</item>
+    <item>E-Class</item>
+    <item>Optima</item>
+    <item>Altima</item>
+    <item>Accord</item>
+    <item>TLX</item>
+    <item>S60</item>
+    <item>Camry</item>
+    <item>XE</item>
+    <item>ES</item>
+    <item>X5</item>
+    <item>Q50</item>
+    <item>Discovery</item>
+
+</string-array>
+</resources>
